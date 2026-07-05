@@ -59,3 +59,6 @@ True multi-agent orchestration: Use LangGraph's conditional routing so a supervi
 Persistent conversation memory: Give the chat agent proper memory of past exchanges and generated itineraries using LangGraph's checkpointing, instead of resending the itinerary text on every turn.
 Multi-city / multi-leg itineraries: Support trips spanning multiple destinations with automatic transit suggestions between them.
 User accounts and saved trips: Allow users to save, revisit, and edit previously generated itineraries.
+<img width="1920" height="916" alt="Screenshot (1655)" src="https://github.com/user-attachments/assets/26e103f1-8c9e-4fb1-99ea-00971e1e2e5e" />
+<img width="1920" height="889" alt="Screenshot (1654)" src="https://github.com/user-attachments/assets/4deb787b-e044-4eb9-a739-5e335974cc9b" />
+
