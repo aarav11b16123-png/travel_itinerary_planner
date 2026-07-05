@@ -4,4 +4,3 @@ langchain-google-genai==1.0.10
 langgraph==0.2.14 
 fpdf==1.7.2 
 python-dotenv==1.0.1
-protobuf>=5.28.0
